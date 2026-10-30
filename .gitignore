@@ -1,0 +1,7 @@
+out/
+*.class
+data/
+*.dat
+.idea/workspace.xml
+.idea/shelf/
+*.log

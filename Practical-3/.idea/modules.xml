@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Distinct-points/Distinct-points.iml" filepath="$PROJECT_DIR$/Distinct-points/Distinct-points.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Duplicate-card-check/Duplicate-card-check.iml" filepath="$PROJECT_DIR$/Duplicate-card-check/Duplicate-card-check.iml" />
+    </modules>
+  </component>
+</project>
